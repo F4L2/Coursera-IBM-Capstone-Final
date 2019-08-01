@@ -10,5 +10,5 @@ The subscription costs about 40€ to 100€ a year.
 As it is the case for many French governmental services, it is not profitable and effectively lose our precious tax money.  
 
 If velib is still relevant today compared to the scooter model like Lemon that doesn't require racks, is most probably because it's very cheap (90% of the course made are withing the first 30 minutes, so it just cost about 40€ to 100€ a year instead of about 2€ the course for Lemon), raising the price would only be detrimental.  
-So instead we'll try to find which areas are too crowded with users and which are deserted so the mayor can cut some cost and save a bit of our valuable tax money.  
+So instead we'll try to define the most and least popular areas, find out what are the attributes that makes them end up in one or the other category and conclude to a strategy so the mayor can cut some cost or attract more users and generally make a better use of our valuable tax money.  
 
